@@ -1,4 +1,7 @@
-Gay es el nil!!
+
+NIL ES GAY!!
+
+>>>>>>> origin/master
 
 
 
